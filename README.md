@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">A passionate Frontend Web Developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 Recent completed project [Full Stack Blog App](https://nishblogweb.netlify.app/)
 
