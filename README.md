@@ -1,13 +1,33 @@
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">A passionate Frontend Web Developer from India</h3>
+<img align="center" src="https://user-images.githubusercontent.com/99413629/212354977-f1982553-e8c9-4fd8-8605-b06907901eec.gif">
 
-- 🌱 I’m currently learning **MERN STACK**
+<div align=center>     
+      
+![Profile Views](https://komarev.com/ghpvc/?username=NISHANTCHAUHAN1&color=219ebc&style=flat)
+<br><br>
+</div>
 
-- 👨‍💻 Recent completed project [Full Stack Blog App](https://nishblogweb.netlify.app/)
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant+Chauhan!" alt="Typing SVG" /></a>
+     
+</div>
+
+<h3 align="center">A passionate Web Developer and Life-Long Learner based in India</h3>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+
+<img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
+
+- 👀 I’m interested in **Full Stack Development**
+
+- 🌱 I’m currently learning **Reactjs, Nodejs, Mongodb**
+
+- 👨‍💻 All of my projects are available [here](https://portfolioo-nishant.vercel.app/)
 
 - 📫 How to reach me **nishchaynish8@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nishant-chauhan-b76371255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.sky_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sky_14" height="30" width="40" /></a>
