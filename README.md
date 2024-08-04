@@ -1,8 +1,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/99413629/212354977-f1982553-e8c9-4fd8-8605-b06907901eec.gif">
 
 <div align=center>     
-      
-![Profile Views](https://komarev.com/ghpvc/?username=NISHANTCHAUHAN1&color=219ebc&style=flat)
 <br><br>
 </div>
 
@@ -28,6 +26,9 @@
 
 - 📫 How to reach me **nishchaynish8@gmail.com**
 
+ <br />
+
+<h2 align="left"> 💬 <b>Connect with me:</b></h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/nishant-chauhan-b76371255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.sky_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sky_14" height="30" width="40" /></a>
