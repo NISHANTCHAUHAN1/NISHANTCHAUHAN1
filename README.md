@@ -1,9 +1,3 @@
-<img align="center" src="https://user-images.githubusercontent.com/99413629/212354977-f1982553-e8c9-4fd8-8605-b06907901eec.gif">
-
-<div align=center>     
-<br><br>
-</div>
-
 
 
 <div align="center">
@@ -27,6 +21,9 @@
 - 📫 How to reach me **nishchaynish8@gmail.com**
 
  <br />
+ <br />
+ <br />
+ 
 
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
 <p align="left">
