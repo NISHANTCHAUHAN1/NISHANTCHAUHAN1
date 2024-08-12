@@ -10,8 +10,6 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
-<img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
-
 - 👀 I’m interested in **Full Stack Development**
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Mongodb**
@@ -21,9 +19,6 @@
 - 📫 How to reach me **nishchaynish8@gmail.com**
 
  <br />
- <br />
- <br />
- 
 
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
 <p align="left">
