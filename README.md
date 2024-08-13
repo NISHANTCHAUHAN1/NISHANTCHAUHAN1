@@ -4,9 +4,6 @@
 </h1>
 
 <h3 align="center">🚀A Passionate Full Stack Developer from India</h3>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NISHANTCHAUHAN1&label=Profile%20Views&color=red&style=flat" alt="nishant" />
-</div>
 <br/>
 
 <div align="center">
