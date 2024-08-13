@@ -1,40 +1,57 @@
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishant;" />
+</h1>
+
+<h3 align="center">🚀A Passionate Full Stack Developer from India</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NISHANTCHAUHAN1&label=Profile%20Views&color=red&style=flat" alt="nishant" />
+</div>
+<br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant+Chauhan!" alt="Typing SVG" /></a>
-     
-</div>
+ 
+ - 🌱 I’m interested in **Full Stack Development**
 
-<h3 align="center">A passionate Web Developer and Life-Long Learner based in India</h3>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
-
-- 👀 I’m interested in **Full Stack Development**
-
-- 🌱 I’m currently learning **Reactjs, Nodejs, Mongodb**
+- 😮‍💨  I’m currently learning **Reactjs, Nodejs, Mongodb**
 
 - 👨‍💻 All of my projects are available [here](https://portfolioo-nishant.vercel.app/)
 
 - 📫 How to reach me **nishchaynish8@gmail.com**
 
- <br />
+ </div>
 
-<h2 align="left"> 💬 <b>Connect with me:</b></h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/nishant-chauhan-b76371255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_.sky_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sky_14" height="30" width="40" /></a>
-</p>
+<div align="center"> 
+  <a href="mailto: nishchaynish8@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.instagram.com/_.sky_14/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishant-chauhan-b76371255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</p>
+<hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,mongodb,express,nodejs,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,appwrite,postman" /><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHANTCHAUHAN1&show_icons=true&locale=en&layout=compact" alt="NISHANT" /></p>
+<br/>
+<hr/>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NISHANTCHAUHAN1&" alt="NISHANTCHAUHAN1" /></p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NISHANTCHAUHAN1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NISHANTCHAUHAN1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
