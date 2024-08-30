@@ -10,7 +10,7 @@
  
  - 🌱 I’m interested in **Full Stack Development**
 
-- 😮‍💨  I’m currently learning **Reactjs, Nodejs, Mongodb**
+- 😮‍💨  I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available [here](https://portfolioo-nishant.vercel.app/)
 
