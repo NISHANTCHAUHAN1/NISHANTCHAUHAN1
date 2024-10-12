@@ -29,5 +29,21 @@ const nish = () => ({
     "Blog Website"
   ]
 });
-
 ~~~
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHANTCHAUHAN1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=NISHANTCHAUHAN1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="GitHub Streak"/>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NISHANTCHAUHAN1&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
+
+###
+
+<h3 align="left">Happy Coding ✨</h3>
