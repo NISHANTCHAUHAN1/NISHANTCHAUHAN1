@@ -6,26 +6,25 @@ const nish = () => ({
     "Building modern, scalable web applications",
     "Creating efficient and user-friendly solutions"
   ],
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL", "Python", "English"],
+  languages: ["JavaScript", "HTML", "CSS", "CPP", "C", "Python", "English"],
   technologies: {
     frontEnd: {
-      core: ["JavaScript", "HTML5", "CSS3", "SEO", "Accessibility"],
-      js: ["React", "Redux", "Next.js"],
+      core: ["JavaScript", "HTML5", "CSS3"],
+      js: ["React", "Redux", "Context Api"],
       css: ["Tailwind", "SASS", "Bootstrap", "Styled Components"],
     },
     backEnd: {
-      core: ["REST APIs", "Serverless", "Web Sockets"],
-      technologies: ["Node.js", "Express", "Edge Functions"],
-      databases: ["MongoDB", "PostgreSQL", "SQLite"],
-      devops: ["AWS", "Vercel", "Cloudflare"],
+      technologies: ["Node.js", "Express", ],
+      databases: ["MongoDB"],
+      deployment: ["Render", "Vercel", "Netlify"],
     },
     misc: ["Postman", "GitHub", "VSCode", "Firebase"],
   },
-  askMeAbout: ["software development", "MERN stack", "indie projects", "startups"],
+  askMeAbout: ["MERN stack", "Tech", "Gaming", "Anime"],
   portfolio: "https://nishportfolio.com",
   sideProjects: [
     "Pinterest Clone",
-    "Online Code Editor",
+    "Online Code Editor (IDE)",
     "E-commerce Website",
     "Blog Website"
   ]
