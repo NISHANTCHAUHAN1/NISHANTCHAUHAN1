@@ -21,7 +21,7 @@ const nish = () => ({
     misc: ["Postman", "GitHub", "VSCode", "Firebase"],
   },
   askMeAbout: ["MERN stack", "Tech", "Gaming", "Anime"],
-  portfolio: "https://nishportfolio.com",
+  portfolio: "https://nish14.vercel.app/",
   sideProjects: [
     "Pinterest Clone",
     "Online Code Editor (IDE)",
