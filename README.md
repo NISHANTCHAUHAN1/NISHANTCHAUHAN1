@@ -1,5 +1,5 @@
 ~~~js
-const nish = () => ({
+const NisH = () => ({
   role: "Full-Stack Developer",
   expertise: "JavaScript Ecosystem (Frontend & Backend)",
   specialties: [
