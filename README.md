@@ -6,7 +6,7 @@ const NisH = () => ({
     "Building modern, scalable web applications",
     "Creating efficient and user-friendly solutions"
   ],
-  languages: ["JavaScript", "HTML", "CSS", "CPP", "C", "Python", "English"],
+  languages: ["JavaScript", "HTML", "CSS", "C", "C++", "Python", "English"],
   technologies: {
     frontEnd: {
       core: ["JavaScript", "HTML5", "CSS3"],
