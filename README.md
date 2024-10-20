@@ -23,10 +23,10 @@ const NisH = () => ({
   askMeAbout: ["MERN stack", "Tech", "Gaming", "Anime"],
   portfolio: "https://nish14.vercel.app/",
   sideProjects: [
-    "Pinterest Clone",
-    "Online Code Editor (IDE)",
-    "E-commerce Website",
-    "Blog Website"
+    "Pinterest Clone(MERN) ",
+    "Online Code Editor (IDE), (MERN)",
+    "E-commerce Website (React, Firebase)",
+    "Blog Website (React Appwrite)"
   ]
 });
 ~~~
