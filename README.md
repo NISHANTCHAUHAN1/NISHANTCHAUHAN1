@@ -34,7 +34,7 @@ const NisH = () => ({
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHANTCHAUHAN1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="Top Languages"/> -->
-<!--   <img src="https://streak-stats.demolab.com?user=NISHANTCHAUHAN1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="GitHub Streak"/> -->
+  <img src="https://streak-stats.demolab.com?user=NISHANTCHAUHAN1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="GitHub Streak"/>
 </div>
 
 ###
