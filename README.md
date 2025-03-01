@@ -23,7 +23,7 @@ const NisH = () => ({
   askMeAbout: ["MERN stack", "Tech", "Gaming", "Anime"],
   portfolio: "https://nish14.vercel.app/",
   sideProjects: [
-    "Learning platform(MERN) "
+    "Course Management System(MERN) "
     "Pinterest Clone(MERN) ",
     "Online Code Editor (IDE), (MERN)",
     "E-commerce Website (React, Firebase)",
@@ -33,7 +33,7 @@ const NisH = () => ({
 ~~~
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHANTCHAUHAN1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="Top Languages"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NISHANTCHAUHAN1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="Top Languages"/>
   <img src="https://streak-stats.demolab.com?user=NISHANTCHAUHAN1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="GitHub Streak"/>
 </div>
 
