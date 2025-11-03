@@ -6,30 +6,32 @@ const NisH = () => ({
     "Building modern, scalable web applications",
     "Creating efficient and user-friendly solutions"
   ],
-  languages: ["JavaScript", "HTML", "CSS", "C", "C++", "Python", "English"],
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS", "C", "C++", "Python", "English"],
   technologies: {
     frontEnd: {
-      core: ["JavaScript", "HTML5", "CSS3"],
-      js: ["React", "Redux", "Context Api"],
+      core: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+      js: ["React", "Next.js", "Redux", "Context API"],
       css: ["Tailwind", "SASS", "Bootstrap", "Styled Components"],
     },
     backEnd: {
-      technologies: ["Node.js", "Express", ],
+      technologies: ["Node.js", "Express", "Prisma ORM"],
       databases: ["MongoDB"],
       deployment: ["Render", "Vercel", "Netlify"],
     },
     misc: ["Postman", "GitHub", "VSCode", "Firebase"],
   },
-  askMeAbout: ["MERN stack", "Tech", "Gaming", "Anime"],
+  askMeAbout: ["MERN stack", "Next.js", "TypeScript", "Prisma", "Tech", "Gaming", "Anime"],
   portfolio: "https://nish14.vercel.app/",
   sideProjects: [
-    "Course Management System(MERN) "
-    "Pinterest Clone(MERN) ",
-    "Online Code Editor (IDE), (MERN)",
+    "Course Management System (MERN)",
+    "Pinterest Clone (MERN)",
+    "Online Code Editor (IDE) (MERN)",
     "E-commerce Website (React, Firebase)",
-    "Blog Website (React Appwrite)"
+    "Blog Website (React, Appwrite)",
+    "Next.js + Prisma Full-Stack Project"
   ]
 });
+
 ~~~
 
 <div align="center">
