@@ -34,7 +34,7 @@ const NisH = () => ({
 
 ~~~
 
-<div >
+<div align="center" >
  
   <img src="https://streak-stats.demolab.com?user=NISHANTCHAUHAN1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="GitHub Streak"/>
 </div>
