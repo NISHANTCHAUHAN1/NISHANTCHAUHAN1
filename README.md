@@ -34,7 +34,7 @@ const NisH = () => ({
 
 ~~~
 
-<div align<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NISHANTCHAUHAN1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>="center">
+<div >
  
   <img src="https://streak-stats.demolab.com?user=NISHANTCHAUHAN1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="GitHub Streak"/>
 </div>
