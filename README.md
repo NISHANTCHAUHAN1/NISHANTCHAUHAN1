@@ -35,9 +35,15 @@ const NisH = () => ({
 ~~~
 
 <div align="center" >
- 
-  <img src="https://streak-stats.demolab.com?user=NISHANTCHAUHAN1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="GitHub Streak"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NISHANTCHAUHAN1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=NISHANTCHAUHAN1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="160" alt="GitHub Streak"/>
 </div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahillrathore&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahillrathore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>
+</div> -->
+
 
 ###
 
