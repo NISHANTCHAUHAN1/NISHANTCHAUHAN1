@@ -1,7 +1,7 @@
 <h1 align="center">I'm Nishant <br> ニシャント</h1>
 
  <p align="center">
-  <img src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif" alt="GIF" style="width: 120%; border-radius: 12px;" />
+  <img src="https://media1.tenor.com/m/ULC1di2seYQAAAAC/blue-lock-itoshi-sae.gif" alt="GIF" style="width: 120%; border-radius: 12px;" />
 </p>
 
 <h3 align="center">Full-Stack Developer | MERN | Next.js | TypeScript</h3>
