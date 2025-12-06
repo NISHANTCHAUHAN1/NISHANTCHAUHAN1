@@ -1,6 +1,6 @@
 <h1 align="center">I'm Nishant <br> ニシャント</h1>
 
-<p align="center">
+ <p align="center">
   <img src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif" alt="GIF" style="width: 120%; border-radius: 12px;" />
 </p>
 
@@ -18,41 +18,3 @@
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-38B2E8.svg?style=plastic&logo=tailwind-css&logoColor=white" />
 </p>
-
----
-
-### 👨‍💻 **About Me (In JavaScript Style)**
-
-```js
-const Nishant = () => ({
-  role: "Full-Stack Developer",
-  expertise: "JavaScript Ecosystem (Frontend & Backend)",
-  specialties: [
-    "Building modern, scalable web applications",
-    "Creating efficient and user-friendly solutions"
-  ],
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS", "C", "C++", "Python", "English"],
-  technologies: {
-    frontEnd: {
-      core: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-      js: ["React", "Next.js", "Redux", "Context API"],
-      css: ["Tailwind", "SASS", "Bootstrap", "Styled Components"],
-    },
-    backEnd: {
-      technologies: ["Node.js", "Express", "Prisma ORM"],
-      databases: ["MongoDB"],
-      deployment: ["Render", "Vercel", "Netlify"],
-    },
-    misc: ["Postman", "GitHub", "VSCode", "Firebase"],
-  },
-  askMeAbout: ["MERN stack", "Next.js", "TypeScript", "Prisma", "Tech", "Gaming", "Anime"],
-  portfolio: "https://nish14.vercel.app/",
-  sideProjects: [
-    "Course Management System (MERN)",
-    "Pinterest Clone (MERN)",
-    "Online Code Editor (IDE) (MERN)",
-    "E-commerce Website (React, Firebase)",
-    "Blog Website (React, Appwrite)",
-    "Next.js + Prisma Full-Stack Project"
-  ]
-});
